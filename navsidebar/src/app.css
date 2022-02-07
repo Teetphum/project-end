@@ -1,0 +1,12 @@
+.contain{
+    flex: 1;
+    margin: 0;
+    padding: 0;
+}
+
+.other{
+    flex: 4;
+    margin: 20px 50px 50px 50px;
+    padding: 100px;
+    padding-left: 330px;
+}
